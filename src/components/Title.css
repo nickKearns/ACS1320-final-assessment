@@ -1,0 +1,7 @@
+.Title {
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    padding: 1em;
+  }
